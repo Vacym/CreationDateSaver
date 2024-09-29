@@ -1,0 +1,11 @@
+# Example Configuration for CreationDateSaver
+
+# Path to the folder you want to watch for changes.
+# The script will monitor this folder for file creation, modification, and deletion.
+watch_folder: "/home/user/folder"
+
+# Set to true if you want the script to monitor subfolders within the watch_folder.
+include_subfolders: true
+
+# Path to the file with file creation timestamps
+metadata_file: "./file_metadata.json"
