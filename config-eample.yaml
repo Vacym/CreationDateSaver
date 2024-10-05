@@ -1,4 +1,4 @@
-# Example Configuration for CreationDateSaver
+# Example Configuration for creation-date-saver
 
 # Path to the folder you want to watch for changes.
 # The script will monitor this folder for file creation, modification, and deletion.

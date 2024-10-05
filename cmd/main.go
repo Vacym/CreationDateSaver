@@ -1,8 +1,8 @@
 package main
 
 import (
-	"CreationDateSaver/config"
-	"CreationDateSaver/internal"
+	"creation-date-saver/config"
+	"creation-date-saver/internal"
 	"fmt"
 	"log"
 )
